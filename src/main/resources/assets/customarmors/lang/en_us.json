@@ -1,0 +1,28 @@
+{
+  "itemgroup.customarmors" : "Custom Armors",
+
+  "item.customarmors.black_helmet" : "Black Helmet",
+  "item.customarmors.black_chestplate" : "Black Chestplate",
+  "item.customarmors.black_leggings" : "Black Leggings",
+  "item.customarmors.black_boots" : "Black Boots",
+
+  "item.customarmors.blue_helmet" : "Blue Helmet",
+  "item.customarmors.blue_chestplate" : "Blue Chestplate",
+  "item.customarmors.blue_leggings" : "Blue Leggings",
+  "item.customarmors.blue_boots" : "Blue Boots",
+
+  "item.customarmors.green_helmet" : "Green Helmet",
+  "item.customarmors.green_chestplate" : "Green Chestplate",
+  "item.customarmors.green_leggings" : "Green Leggings",
+  "item.customarmors.green_boots" : "Green Boots",
+
+  "item.customarmors.red_helmet" : "Red Helmet",
+  "item.customarmors.red_chestplate" : "Red Chestplate",
+  "item.customarmors.red_leggings" : "Red Leggings",
+  "item.customarmors.red_boots" : "Red Boots",
+
+  "item.customarmors.yellow_helmet" : "Yellow Helmet",
+  "item.customarmors.yellow_chestplate" : "Yellow Chestplate",
+  "item.customarmors.yellow_leggings" : "Yellow Leggings",
+  "item.customarmors.yellow_boots" : "Yellow Boots"
+}

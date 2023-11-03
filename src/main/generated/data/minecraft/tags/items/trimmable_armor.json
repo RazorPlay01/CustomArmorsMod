@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "customarmors:black_helmet",
+    "customarmors:black_chestplate",
+    "customarmors:black_leggings",
+    "customarmors:black_boots",
+    "customarmors:blue_helmet",
+    "customarmors:blue_chestplate",
+    "customarmors:blue_leggings",
+    "customarmors:blue_boots",
+    "customarmors:green_helmet",
+    "customarmors:green_chestplate",
+    "customarmors:green_leggings",
+    "customarmors:green_boots",
+    "customarmors:red_helmet",
+    "customarmors:red_chestplate",
+    "customarmors:red_leggings",
+    "customarmors:red_boots",
+    "customarmors:yellow_helmet",
+    "customarmors:yellow_chestplate",
+    "customarmors:yellow_leggings",
+    "customarmors:yellow_boots"
+  ]
+}
